@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[846],{4948:e=>{e.exports=JSON.parse('[{"label":"Agile","permalink":"/website/blog/tags/agile","count":1},{"label":"Front End","permalink":"/website/blog/tags/front-end","count":1}]')}}]);

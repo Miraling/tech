@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"\u654f\u6377\u6846\u67b6Scrum","permalink":"/website/en/blog/what-is-Scrum"},{"title":"Next.js\u4e2d\u7684\u9884\u6e32\u67d3","permalink":"/website/en/blog/pre-rendering-in-Nextjs"}]}')}}]);
