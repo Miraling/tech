@@ -12,18 +12,19 @@ function HomepageHeader() {
   return (
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className={clsx(styles.container)}>
-        <h1 className="hero__title" style={{fontFamily: "initial-serif"}}>{siteConfig.title}</h1>
+        <h1 className="hero__title" style={{fontFamily: "initial"}}>{siteConfig.title}</h1>
         <h3 className="hero__title" style={{fontFamily: "initial"}}>{"a front-end developer"}</h3>
         <h3 className="hero__subtitle" style={{fontFamily: "initial"}}>{siteConfig.tagline}</h3>
-        <div className={styles.button}>
+
+      </div>
+      <div className={styles.button}>
           <Link
-          style={{width: "auto", backgroundColor: 'whitesmoke', borderRadius: 15}}
+          style={{width: "auto", backgroundColor: 'whitesmoke', borderRadius: 15, fontFamily:"monospace"}}
             className="button button--secondary button--lg"
             to="/blog">
-            ✨ click to explore my technical insights ✨
+            ✨ click to explore my insights ✨
           </Link>
         </div>
-      </div>
     </header>
   );
 }
