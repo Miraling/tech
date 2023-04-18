@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "hi, I'm Bailing Lan",
-  tagline: 'now working in Thoughtworks',
+  title: "Hi, I'm Bailing Lan",
+  // tagline: 'now working in Thoughtworks',
   favicon: 'img/1F4A1.svg',
 
   // Set the production url of your site here
